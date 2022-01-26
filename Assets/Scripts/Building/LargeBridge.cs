@@ -106,7 +106,10 @@ public class LargeBridge : MonoBehaviour
     void OnTriggerExit(Collider other)
     {
         // if the player walks away from the NPC, count one and change the text back to empty so it won't be in the players way
-        timesWalked++;
-        payBoxText.text = "";
+        if (other.tag == "Player")
+        {
+            timesWalked++;
+            payBoxText.text = "";
+        }
     }
 }
