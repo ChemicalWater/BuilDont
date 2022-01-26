@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1252790098, guid: 448d62fcada76fd4ab5702190add98fd, type: 3}
+  m_Name: EditorStates
+  m_EditorClassIdentifier: 
+  GeneralStates:
+    LoadedProjectGUID:
+      valueInternal: 9abda5b0b3aca95468fa9c46fbf1984e
+    RecentlyOpenedProjectPath:
+      valueInternal: Assets\UmotionAnimations\Player
+    RecentlyOpenedProjectGUIDsList:
+    - valueInternal: 9abda5b0b3aca95468fa9c46fbf1984e
+    - valueInternal: 4127ff1a352a4dc41b2efaf28e6a60a1
+    - valueInternal: 42187d6c839045641bba30e3c90d9711
+    - valueInternal: 4574bc69449f3e546bc988e1b4672902
+    - valueInternal: 0cdce69e26a38a74fb2ffacb4c6aa6bd
+    - valueInternal: 67d019492bb28f54cabd9b89bdee4a3d
+    - valueInternal: ae84133f8131b704ebc6588cb420bddf
+    - valueInternal: 6a090f5737c0cb64099b2cb1e2ef5cef
